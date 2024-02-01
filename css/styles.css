@@ -712,7 +712,7 @@ address {
 
 .modal-input-area {
   position: relative;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 .modal-form-send {
@@ -775,7 +775,7 @@ address {
 }
 
 .user-privacy-span {
-  display: inline-flex;
+  display: inline-flex; 
   align-items: center;
   justify-content: center;
   width: 16px;
